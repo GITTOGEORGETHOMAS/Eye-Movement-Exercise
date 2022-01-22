@@ -5,4 +5,4 @@ This Project is to adding a second "eye" element and have that element follow th
 Move the mouse to observe the rotation of the eye.
 
 #### Future Improvement
-This Project can be further enhanced by adding another eye and undatiing the speed of the eye movement.
+This Project can be further enhanced by adding another eye and also adding effects and shapes to the eye.
